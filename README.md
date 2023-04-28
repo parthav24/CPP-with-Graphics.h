@@ -8,9 +8,14 @@ Features
 The Airplane Booking System has the following features:
 
 Display all seat assignments: Customer can see all seats which is available or which is not.
+
 Show available seats: Customer can see all available seats.
+
 Show Assigned seats: Customer can see All assigned seats.
+
 Assign a seat: Customer can assign a seat.
+
 Cancel One assigned seat: Customer can cancel one seat.
+
 Cancel all assigned seats: Customer can cancel all seats.
 
