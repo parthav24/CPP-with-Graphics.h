@@ -1,4 +1,4 @@
-# C++-with-Graphics.h
+# C++ with Graphics.h
 Project of C++ with graphics(Airplane Ticket Booking System)
 
 # Airplane Booking System
